@@ -29,12 +29,12 @@ There are 3 Info-cards in total, but sadly the Recovery Card is no longer update
 
 Line chart has 3 options 7 Days, 30 Days and All \
 Map chart to add vibrancy \
-And because there is no specific data for each province, so the color density employs fake data to produce the effects \
+And because there is no specific data for each province, so the color density employs fake data to produce the effects 
 
 ###
 
 Basically, that's all the functions of this website\
-Thank you for visiting <3 \
+Thank you for visiting <3 
 
 ------ You can end up reading right here and download the code for a more intuitive experiences ------
 
