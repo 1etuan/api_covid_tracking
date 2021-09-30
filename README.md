@@ -1,34 +1,43 @@
 # api_covid_tracking
-Using API to update for Covid cases around the globe 
 
+Using API to update for Covid cases around the globe
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm install`
+### 1 `npm install`
 
-### `npm start` 
+### 2 `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## Here is the map and its features
 
-## Here are some main features 
+![image info](./covid-tracking/public/img/Map.png)
 
-## Hompage - Function: render Home Page View
+### 1 Country Selector
 
-![image info](./CRUD_Blog/src/public/img/Home.PNG)
+Country Selector (Default Country is VietNam) -> Select the country that you want to investigate
 
-### CLick on Profile Picture to access to the Function listed below:
+### 2 General Info
 
-## Create a course - Function: Update new courses 
-![image info](./CRUD_Blog/src/public/img/Create.PNG)
+There are 3 Info-cards in total, but sadly the Recovery Card is no longer updated
 
-Overall, that's all the services of this website\
+### 3 High Map and Line Chart
+
+Line chart has 3 options 7 Days, 30 Days and All \
+Map chart to add vibrancy \
+And because there is no specific data for each province, so the color density employs fake data to produce the effects \
+
+###
+
+Basically, that's all the functions of this website\
 Thank you for visiting <3 \
 
-   ------  You can end up reading right here and download the code for a more intuitive experiences ------
+------ You can end up reading right here and download the code for a more intuitive experiences ------
+
 
 
 ### `npm run build`
@@ -50,10 +59,6 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-
-
-
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
